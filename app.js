@@ -16,12 +16,13 @@ import {
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAcUav2MjF2WWohC8CVdcis4XwYhpBtvDo",
-  authDomain: "sonuko-d70d1.firebaseapp.com",
-  projectId: "sonuko-d70d1",
-  storageBucket: "sonuko-d70d1.appspot.com",
-  messagingSenderId: "826707608484",
-  appId: "1:826707608484:web:0ab715ac747cccaf02b731"
+  apiKey: "AIzaSyDmJFLHYGdafP1IBwrtYrCB5a3XNpahUOw",
+  authDomain: "sbuy-5d263.firebaseapp.com",
+  databaseURL: "https://sbuy-5d263-default-rtdb.firebaseio.com",
+  projectId: "sbuy-5d263",
+  storageBucket: "sbuy-5d263.appspot.com",
+  messagingSenderId: "431526270214",
+  appId: "1:431526270214:web:f75096952613907cf33a87"
 };
 
 // Initialize Firebase
